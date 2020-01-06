@@ -1,0 +1,15 @@
+{
+  "name": "paren-balance",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Josh Farrant <josh@farrant.me> (https://josh.farrant.me)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
