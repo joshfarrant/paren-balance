@@ -15,3 +15,15 @@ Output: '(((())))(()())'
 ```
 
 Enjoy!
+
+## Running
+
+Clone this repo
+
+```sh
+npm install
+
+# Add your solution to the exported function in index.js
+
+npm run test
+```
